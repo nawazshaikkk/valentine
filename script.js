@@ -12,6 +12,8 @@ yesBtn.addEventListener("click", () => {
   card.innerHTML = `
     <h1>YAY!!! 🎉💖</h1>
     <p>You said YES 😭</p>
-    <img src="sticker.png" width="200">
+  <img src="IMG_2926.PNG" width="200">
+
   `;
 });
+
