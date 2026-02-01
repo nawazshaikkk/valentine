@@ -19,8 +19,13 @@ body {
 .buttons {
   margin-top: 30px;
   position: relative;
-  height: 60px;
+  height: 80px;
 }
+
+#yesBtn {
+  margin-right: 40px;
+}
+
 
 button {
   padding: 12px 25px;
@@ -43,5 +48,6 @@ button {
   width: 120px;
   margin-bottom: 20px;
 }
+
 
 
