@@ -23,8 +23,15 @@ body {
 }
 
 #yesBtn {
-  margin-right: 40px;
+  background: #ff4d6d;
+  color: white;
+  padding: 18px 45px;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 40px;
+  box-shadow: 0 8px 20px rgba(255, 77, 109, 0.5);
 }
+
 
 
 button {
@@ -48,6 +55,7 @@ button {
   width: 120px;
   margin-bottom: 20px;
 }
+
 
 
 
